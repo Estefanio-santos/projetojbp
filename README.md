@@ -1,6 +1,6 @@
 #Projeto Java Bank Power - JPB
 
-#Integrantes do Grupo 2: Projeto Final Gama Academy
+#Integrantes do Grupo 2: Projeto Final Gama Academy;
 Daniel Gause - dgause@gmail.com;
 Domingos Mendes - domingosmp17@gmail.com;
 Elielson - likinhopalmeiras@gmail.com;
