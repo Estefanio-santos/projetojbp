@@ -36,4 +36,4 @@ Pacote controller, pacote Dao, pacote DTO e pacote Model;
 
 #A classe OperacaoSaldoDto, foi criada para que os métodos POST Depositar e Sacar sejam utilizados;
 
-#Por fim, foram criados três arquivos HTTP no Visual Studio, usando a extensão REST CLIENT, fpara testar os métodos POSTS;
+#Por fim, foram criados três arquivos HTTP no Visual Studio, usando a extensão REST CLIENT, para testar os métodos POSTS;
