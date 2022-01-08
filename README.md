@@ -1,3 +1,12 @@
+#Projeto Java Bank Power - JPB
+
+#Integrantes do Grupo 2: Projeto Final Gama Academy
+Daniel Gause - dgause@gmail.com;
+Domingos Mendes - domingosmp17@gmail.com;
+Elielson - likinhopalmeiras@gmail.com;
+Estefanio Santos - mr.estefanio@hotmail.com;
+Guilherme Manoel - guilhermemano321@gmail.com;
+
 #Criação de uma API JAVA utilizando bibliotecas SPRINGBOOT e um banco de dados MySQL;
 
 #Após a importação da biblioteca SpringBoot, foram criados 4 pacotes:
@@ -23,9 +32,8 @@ Pacote controller, pacote Dao, pacote DTO e pacote Model;
 
 #O segundo método POST, serve para depositar valores em quaisquer das contas existentes;
 
- #O terceiro Método POST, serve para efetuar saques que sejam iguais ou menores que o saldo existente, caso contrário, , foi utilizada uma condicional IF ELSE  para não permitir a operação;
+ #O terceiro Método POST, serve para efetuar saques que sejam iguais ou menores que o saldo existente, caso contrário, foi utilizada uma condicional IF ELSE  para não permitir a operação;
 
 #A classe OperacaoSaldoDto, foi criada para que os métodos POST Depositar e Sacar sejam utilizados;
 
-
-#Por fim, foram criado três arquivos HTTP no Visual Studio, usando a extensão REST CLIENT, para testar os métodos POSTS;
+#Por fim, foram criados três arquivos HTTP no Visual Studio, usando a extensão REST CLIENT, fpara testar os métodos POSTS;
