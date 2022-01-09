@@ -1,7 +1,10 @@
 package com.javabank.power.dto;
 
 public class BaseContaDto {
+<<<<<<< HEAD
+=======
 
+>>>>>>> bd759fca4f76c74969df5d70809e189ca8dabc69
 	private int numero;
 	private int agencia;
 	private int tipo;
@@ -60,5 +63,8 @@ public class BaseContaDto {
 	}
 
 }
+<<<<<<< HEAD
+=======
 
 
+>>>>>>> bd759fca4f76c74969df5d70809e189ca8dabc69
