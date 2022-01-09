@@ -1,0 +1,10 @@
+POST http://localhost:8080/contas
+Content-Type: application/json
+
+{
+    "numero": ,
+    "agencia": ,
+    "tipo": ,
+    "saldo": 0.00,
+    "titular": ""
+} 
