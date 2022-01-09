@@ -3,7 +3,7 @@ package com.javabank.power.controller;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
-<<<<<<< HEAD
+ 
 
 import org.springframework.web.bind.annotation.GetMapping;
 
@@ -19,7 +19,6 @@ import com.javabank.power.dao.BaseContaDao;
 
 import com.javabank.power.dto.OperacaoSaldoDto;
 
-=======
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
@@ -28,7 +27,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.javabank.power.dao.BaseContaDao;
 import com.javabank.power.dto.OperacaoSaldoDto;
->>>>>>> 323de66943103e868bbd613875e2365330ba3de8
+
 import com.javabank.power.model.BaseConta;
 
 @RestController
@@ -39,10 +38,11 @@ public class BaseContaController {
 	@GetMapping("/contas")
 	public List<BaseConta> listarContas() {
 		return (List<BaseConta>) dao.findAll();
-<<<<<<< HEAD
 
-=======
->>>>>>> 323de66943103e868bbd613875e2365330ba3de8
+
+
+
+
 	}
 
 	@GetMapping("/contas/{numero}")
